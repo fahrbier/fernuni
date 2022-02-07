@@ -1,5 +1,6 @@
 @startmindmap
 title 32641 KE1 Internationales Management
+center footer https://github.com/fahrbier/fernuni/blob/main/32641-IM/KE1-mindmap.puml
 
 + Internationales\nManagement
 ++ Kulturforschung
@@ -20,7 +21,7 @@ title 32641 KE1 Internationales Management
 ++++_ Zukunftsorientierung
 ++++_ Leistungsorientierung
 ++++_ Humanorientierung
-++ Internationale\nOrganisatiosnen
+++ Organisationen
 +++ International
 ++++_ Staatlich
 +++++_ ILO 
@@ -84,7 +85,7 @@ title 32641 KE1 Internationales Management
 -----_ Geo-kulturelle Distanz
 --- Funktionen Management
 ----_ funktionale Sicht 
------_ planunen (planning)
+-----_ planen (planning)
 -----_ organisieren (organizing)
 -----_ personalbeschaffen (staffing) 
 -----_ führen  (directing)
@@ -93,7 +94,7 @@ title 32641 KE1 Internationales Management
 -----_ Positionen mit\nWeisungsbefugnis
 --- Problemfelder
 ----_ neue Umwelt
-----_ länderspez.nDynamik
+----_ länderspez. Dynamik
 ----_ erhöhte Komplexität
 -- Theorien
 --- Internationale\nUnternehmertätigkeit
