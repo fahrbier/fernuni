@@ -7,4 +7,4 @@
 ![Internationales Management KE2](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/fahrbier/fernuni/main/32641-IM/KE2-mindmap.puml "KE2")
 
 ## KE3: Personal und Controlling
-![Internationales Management KE3](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/fahrbier/fernuni/main/32641-IM/KE3-mindmap.puml "KE3") 
+![Internationales Management KE3](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/fahrbier/fernuni/main/32641-IM/KE3-mindmap.puml?cache=1 "KE3") 
