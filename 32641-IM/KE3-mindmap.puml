@@ -2,7 +2,7 @@
 title 32641 KE3 Internationales Management
 center footer https://github.com/fahrbier/fernuni/blob/main/32641-IM/KE3-mindmap.puml
 
-+ IM KE3
++ Internationales\nManagement\nKE3
 -- Personal
 --- Grundlagen
 ----_ Personalpolitische Grundhaltung
@@ -108,4 +108,69 @@ center footer https://github.com/fahrbier/fernuni/blob/main/32641-IM/KE3-mindmap
 ++++++_ Häufigkeit
 ++++++_ Zeitpunkt
 +++++_ räumliche Distanz
++++ Funktion
+++++_ Komplexität
++++++_ begrenzte Entscheidungs-\nverarbeitungskapazität
++++++_ Fremdheit von Einflussfaktoren
++++++_ Begrenze Informationen
+++++++_ Geld
+++++++_ Zeit
+++++++_ Mitarbeiter
+++++_ Reflexion
++++++_ abweichungsorientiert
+++++++_ ex-Post 
+++++++_ ex-Ante 
+
+++++++_ strategische Entscheidungen
+++++++_ operative Entscheidungen
++++++_ perspektivorientiert
+++++++_ Entscheidungen\nnicht objektiv
+++++++_ inneres Modell
++++++++_ Bezugsrahmen/Kultur        
++++++++_ Einstellung
++++++++_ MindMap
++++++++_ Erfahrung
++++++++_ verändert\nsich ständig
+
+++++++_ eingeschränkte\nEntscheidungsperspektive
+++++++_ Sensitiv ggü. Risiken
+++++++_ Doppeldeutigkeit eher\nGefahr als Chance
+
+++++_ Entscheidungen 
++++++_ Unternehmensbezogen
+++++++_ Gesamt
++++++++_ Organisationsstruktur
++++++++_ Konfiguration
++++++++_ längerfristig und politisch
+
++++++++_ Abweichungsorientiert\n-ursachen
+++++++++_ Wettbewerbsnachteile
+++++++++_ Koordinationsbedarf
++++++++++_ wg. Konfiguration
++++++++++_ wg. zentraler Entsch.
+++++++++_ Managementbedarf
+++++++++_ Zufriedenheit MA
+
++++++++_ Perspektivorientiert
+++++++++_ grosse Bedeutung
+++++++++_ Kultur beeinflusst\nkogn.Modell
+++++++++_ keine culture-free\nEntscheidungen
+++++++++_ grosse Gefahr durch\n(un)bewusste Selektion
+++++++++_ kulturelle Prägung\nschwer zu reflektieren
+
+
+
+
+++++++_ Teil
++++++++_ Auslandseinsatz
++++++++_ Markteintitt
++++++_ Individuell
+++++++_ Führungsentscheidung
+
+
+
+
++++ Unterstützende\nFunktion
+
+
 @endmindmap
