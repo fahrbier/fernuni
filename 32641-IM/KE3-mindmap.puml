@@ -2,6 +2,16 @@
 title 32641 KE3 Internationales Management
 center footer https://github.com/fahrbier/fernuni/blob/main/32641-IM/KE3-mindmap.puml
 
+
+<style>
+mindmapDiagram {
+  .achtung {
+    FontColor white
+    BackgroundColor red
+  }
+}
+</style>
+
 + Internationales\nManagement\nKE3
 -- Personal
 --- Grundlagen
@@ -164,11 +174,45 @@ center footer https://github.com/fahrbier/fernuni/blob/main/32641-IM/KE3-mindmap
 ++++++_ Teil
 +++++++_ Auslandseinsatz
 +++++++_ Markteintitt
++++++++_ abweichungsorientiert\nperspektivorientiert
+++++++++_ wie Gesamtunternehmen
+++++++++_ aber weniger komplex
+++++++++_ geringer Inform.bedarf
+++++++++_ intensive Interaktion
+++++++++_ gute Voraussetzung\nsystemat.Controlling
++++++++ KEINE CONTROLLINGAUFGABEN\nsondern Managemententscheidungen <<achtung>>
+++++++++_ Transferpreisgestaltung
+++++++++_ Gewinntransfairs
+++++++++_ Währungsumrechnung
++++++++_ Beispiel: Auslandseinsatz
+++++++++_ Folge strategischer Entscheidung
+++++++++_ Personalentscheidung
+
+
+
+
+
+
 +++++_ Individuell
 ++++++_ Führungsentscheidung
++++++++_ hohe Kulturprägung 
++++++++_ Reflexion der jeweiligen\nEntscheidungsperspektive 
++++++++_ übergang von expost->exante fliessend
++++++++_ anderes Controllingverständnis
++++++++_ Gespräche, Beurteilungen, Kennzahlen
++++++++_ Lerneffekte vordergründig
 
++++++_ Stimmigkeit
+++++++_ Kombination Einzelentscheidungen
+++++++_ Reflexin notwendigß
++++++++_ perspektivorientiert
++++++++_ abweichungsorientiert
+++++++_ kontinuierliche Kontrolle
 
-
+++++_ Reflexion und Informationsbedarf
++++++_ Entscheidungsfindung und Umsetzung\ngetrennt und in versch. Laendern
++++++_ Informationsaufgabe\nStandardisierung vs. Differenzierung
++++++_ Reflexion bedarf Anstoss durch Info.Angebot.
 
 +++ Unterstützende\nFunktion
 
