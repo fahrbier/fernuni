@@ -3,5 +3,69 @@ title 32641 KE2 Internationales Management
 center footer https://github.com/fahrbier/fernuni/blob/main/32641-IM/KE2-mindmap.puml
 
 + IM KE2
+-- Planung 
+++ Organisation 
++++ Grundlagen
+++++_ UN ist Orga
+++++_ UN hat Orga
++++++_ Arbeitsteilung
++++++_ Koordination
++++++_ Fremdorganisation\n(hierarchich)
++++++_ Selbstorganisation\n(horizontal)
++++++_ Struktur
+++++++_ statutarisch\nde jure
+++++++_ operational\nde facto
++++++++_ funktional\nnach Aufgaben
+++++++++_ F&E
+++++++++_ Beschaffung
+++++++++_ Produktion
+++++++++_ Absatz
++++++++_ divisional\nnach Objekten
+++++++++_ Produkte
+++++++++_ Region
+++++++++_ Kunden
++++++_ Auslandsgeschäft
+++++++_ integriert
+++++++_ differenziert
+
++++ Differenzierte Strukturen
+++++_ Inlandsgeschäft
+++++_ Auslandsgeschäft\nInternational Division
++++++_ + konzentration auf Auslandsaktivität
++++++_ + Minimal Kommunikationswege
++++++_ + Spezialisierungsvorteile
++++++_ + klare Trennung, kein Kompetenzstreit
++++++_ - Isolierungstendenzen
++++++_ - hohe Abhängigkeit von Nationalen
++++++_ - suboptimale Nutzung Wachstumschancen
++++++_ - Konkurrenzdenken/Rivalitäten
+
+
+
+
++++ Integrierte Strukturen
+++++_ Funktionalstruktur
++++++_ + Spezialisierung
++++++_ + funktionsinterne Synergieen
++++++_ + unkomplizierte integr. intern. Aktivität
++++++_ - bei Internationalisierung im grossen Maß, große Belastung
++++++_ - zunehmende Diverstifikation, mehr Koordination
++++++_ - kommt zu hoher und zeitintensiver Kommunikation
++++++_ - Flexibilität und Effizienz können abnehmen
+++++_ Produktstruktur
++++++_ + Vorteil
++++++_ - Nachteil
+++++_ Regionalstruktur
++++++_ + Vorteil
++++++_ - Nachteil
+++++_ Mehrdimensionale Strukturen
++++++_ + Vorteil
++++++_ - Nachteil
+
++++ Holdingstruktur
+
++++ Projektorganisation
+
++++ Einflussfaktoren Strukturwahl\nempirische Befunde
 
 @endmindmap
