@@ -3,5 +3,21 @@ title 31701 KE1 Personalführung
 center footer https://github.com/fahrbier/fernuni/blob/main/31701-PF/KE1-mindmap.puml
 
 + Führung und Führungsbeziehungen\nBegriff, Charakterisierung und Entstehung
+-- Grundlagen
+--- Begründungsversuche
+--- Menschenbilder
+--- Führungsverständnis
+--- Führungsdefinition
+
+-- Charakterisierung
+--- Grundelemente
+----_ Personale 
+----_ Interaktionale 
+----_ Situationale 
+--- Wirksamkeit
+
+++ Entstehung
++++ Einzelperspektive
++++ Gruppenperspektive
 
 @endmindmap
