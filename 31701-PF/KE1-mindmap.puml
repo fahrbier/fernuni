@@ -1,4 +1,4 @@
-@startmindmap
+@startmindmap 31701KE1
 title 31701 KE1 Personalführung
 center footer https://github.com/fahrbier/fernuni/blob/main/31701-PF/KE1-mindmap.puml
 
@@ -43,15 +43,80 @@ center footer https://github.com/fahrbier/fernuni/blob/main/31701-PF/KE1-mindmap
 ----_ Ideologisch
 
 --- Menschenbilder
+----_ nach McGregor
+-----_ Theory X
+-----_ Theory Y 
+
+----_ nach Schein 
+-----_ Rational-Economic 
+-----_ Social 
+-----_ Self Actualing
+-----_ Complex
+
+----_ Weinert&Langer  
+-----_ Umfrage
+------_ Passivität/Unselbstständig 
+------_ Aktivität/Eigenverantwortung
+------_ Self Actualing
+------_ Complex
+
+
 --- Führungsverständnis
 --- Führungsdefinition
 
 -- Charakterisierung
 --- Grundelemente
+---- Dyade
+-----_ 2 Personen interagieren
+-----_ in einer Führungssituation
+-----_ in einem Führungskontext
 ----_ Personale 
 ----_ Interaktionale 
 ----_ Situationale 
+
 --- Wirksamkeit
+----_ Ebenen des Führungserfolgs
+-----_ Organisationsebene
+------_ schwacher Einfluss
+------_ deutlicher Einfluss
+------_ -> heterogene Befundlage
+------_ romantisierung 
+
+-----_ Individuum / Gruppe
+------_ Loyalität
+------_ Motivation
+------_ Zufriedenheit
+------_ Konfliktneigung
+------_ Kooperationsbereitschaft
+------_ Qualität
+------_ Kosten
+------_ Moral
+
+----_ Eigenschaften des Führungserfolgs
+-----_ zuverlässig und objektiv 
+-----_ zuvzeitlich stabil 
+-----_ umfassend und relevant
+-----_ eindeutig und unabhängig 
+-----_ differenzierend 
+
+----_ übergeordnete Kriterien
+-----_ Effizienz
+------_ nach Wunderer
+-------_ ökonomische Effizienz
+-------_ soziale Effizienz
+
+------_ nach Witte
+-------_ generelle ökonomische Effizienz
+-------_ Leistungsprozesseffizienz
+-------_ Personeneffizienz
+
+
+-----_ Effektivität
+------_ Leistung
+------_ Kohäsion
+------_ Zufriedenheit
+
+
 
 ++ Entstehung
 +++ Einzelperspektive
