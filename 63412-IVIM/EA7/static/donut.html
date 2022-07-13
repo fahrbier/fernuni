@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>EA7 - Frage 1 - Donut</title>
+    <script type="text/javascript" src="https://www.x3dom.org/download/x3dom.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.x3dom.org/download/x3dom.css">
+</head>
+<body>
+    <h1>EA7 - Frage 1 - Donut</h1>
+    <x3d width="600px" height="400px">
+        <scene>
+
+            <viewpoint id="front" position="0.0 0.0 10.0" orientation="0.0 0.0 0.0 0.0" description="camera"></viewpoint>
+            <viewpoint id="top" position="0.0 10.0 0.0" orientation="-1.0 -0.0 0.0 1.5" description="camera"></viewpoint>
+
+            <transform translation="0 0 0">
+                <shape>
+                    <appearance>
+                        <material id="toruscolor" diffusecolor="0 1 1"></material>
+                    </appearance>
+                    <torus></torus>
+                </shape>
+            </transform>
+        </scene>
+    </x3d>
+    <div>
+        <button type="button" onclick="document.getElementById('front').setAttribute('set_bind', 'true');">Von Vorne</button>
+        <button type="button" onclick="document.getElementById('top').setAttribute('set_bind', 'true');">Von Oben</button>        
+    </div>
+</body>
+</html>
