@@ -1,7 +1,153 @@
-@startmindmap
+@startmindmap "PF KE3"
 title 31701 KE3 Personalführung
 center footer https://github.com/fahrbier/fernuni/blob/main/31701-PF/KE3-mindmap.puml
 
 + Gestaltung von Führungsbeziehungen
+
+-- Führungsstilmodelle
+---_ Erste Generation
+----_ Iowa Studien
+-----_ Durchführung
+------_ Mit Kindern  
+-----_ Stile 
+------_ autokratisch
+------_ demokratisch
+------_ laissez fair
+-----_ Verhaltenswirkung
+------_ Leistung
+------_ Zufriedenheit
+
+
+
+----_ Ohio Studien
+-----_ Durchführung
+------_ LBDQ Fragebogen
+------_ Auswertung: zwei\nstatistisch unabh. Fakt.
+-----_ Stile (keine Namen)
+------_ Punkt auf der Ebene\nmitarbeiterorientiert (MAO)\n x aufgabeno. (AO)
+------_ z.B. wenig MAO, wenig AO -> wie laissez fair
+------_ z.B. wenig MAO, hohe AO -> wie autoritär
+-----_ Verhaltenswirkung
+------_ Leistung
+------_ Zufriedenheit
+
+
+
+---_ Zweite Generation
+----_ Führungsstilkontinuum
+-----_ Stile 
+------_ autoritär
+------_ patriarchalisch
+------_ informierend
+------_ beratend
+------_ kooperativ
+------_ delegativ
+------_ autonom
+-----_ situationsgerechte\nEntscheidung
+------_ Vorgesetzenanalyse
+------_ Mitarbeiteranalyse
+------_ Situationsanalyse
+
+
+----_ Verhaltensgitter
+-----_ RRR des Führungsverhaltens
+------_ Ressource
+------_ Relation
+------_ Resultate
+------_ Reflexion
+-----_ 2 Dimensionen, jeweils 1-9\nspäter 3 Dimensionen
+------_ Sachorientierung
+------_ Menschenorientierung
+------_ Motivation (-3 bis +3)
+
+-----_ Stile
+------_ 1.9 Galcehandschuh-
+------_ 1.1 Ùberlebens-
+------_ 9.1 Befehl-Gehorsam-
+------_ 9.9 Team-
+------_ 5.5 Organisations-
+------_ 9.1 + 1.9 Patriarchalich-
+------_ Opportunistisch\nkombiniert Stile\nzum eingenen Vorteil
+
+
+
+
+----_ Reifegradmodell
+-----_ Aufgabenorientiert
+------_ Ziele
+------_ Mitarbeiterrollen
+------_ Strukturen
+------_ Anordnungen
+------_ Regeln
+
+
+-----_ Beziehungsorientiert
+------_ Kommunikation
+------_ sozio-emotionale Unterstützung
+------_ Förderung
+------_ Motivation
+------_ Anerkennung
+
+-----_ Reifegrad des Geführten
+------_ Dimension 
+-------_ Arbeitsreife 
+--------_ kann nicht 
+--------_ kann  
+
+-------_ Psychologische Reife
+--------_ will nicht 
+--------_ will  
+
+------_ Ausprägungen 
+-------_ M1 will nicht, kann nicht
+-------_ M2 will, kann nicht
+-------_ M3 will nicht, kann 
+-------_ M4 will, kann
+
+------_ Führungsverhalten 
+-------_ M1->S1 Telling: genaue Vorgaben
+-------_ M2->S2 Selling: direktiv Führen
+-------_ M3->S3 Participating: aktives Zuhören
+-------_ M4-> S4 Delegating: vollständig abgeben
+
+
+---_ Dritte Generation
+----_ Transaktional
+-----_ Bedingte Belohnung
+-----_ Aktives Problemmanagement
+-----_ Passives Problemmanagement
+-----_ Laissez-faire
+
+----_ Transformational\n(ohne etablierte Moralvorstellung\nnur pseudotransformational)
+-----_ Idealized Influence
+------_ Respektvoll
+------_ Moralisch
+------_ Vertrauensvoll
+------_ Uneigennützig
+------_ Identifikationsobj.
+
+-----_ Inspirational Motivation
+------_ Enthusiastisch
+------_ Zuversichtlich
+------_ Ermutigend
+
+-----_ Intellectual Stimulation
+------_ etabl. Denkmuster aufbrechen
+------_ neue Einsichten vermitteln
+
+-----_ Individualized Consideration
+------_ sich Zeit nehmen
+------_ Bedürfnissensibel
+------_ individuell Fördernd
+
+
+----_ Full Range
+-----_ transaktional und -formational zusammen
+-----_ Augmentationsthese
+
+----_ Authentische Führung
+-----_ Selbst-Einsicht
+-----_ Selbst-Regulation
+
 
 @endmindmap
