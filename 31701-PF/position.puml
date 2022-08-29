@@ -1,0 +1,8 @@
+@startuml TitleFontStyle
+
+class Verhalten
+class Handeln 
+
+Verhalten <|- Handeln 
+
+@enduml
