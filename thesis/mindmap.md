@@ -4,10 +4,19 @@ mindmap
     Introduction
     State of the Art
       Knowledge Management Ecosystem Portal
-        Multimedia Archive
+        Introduction
+        Technology
+        Components
+          Multimedia Archive
+          Multimedia Manager
       Generic Multimedia Analysis Framework
+        Introduction
+        Technology
         Plugin Architecture
+        FFmpeg
       Receive and record streams
+        RTMP
+        nginx
       Unlimited Length of recordings
       Appropriate Plugins\nfor feature extraction
       Automate feature extraction in GMAF
