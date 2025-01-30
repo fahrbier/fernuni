@@ -1,0 +1,29 @@
+@startmindmap
+* Master Thesis:\nEXTRACTION AND INTEGRATION\nOF MMIR-FEATURES
+-- Introduction
+
+-- State of the Art
+--- Knowledge Management\nEcosystem Portal
+----_ Multimedia Archive (MMA)
+--- Generic Multimedia\nAnalysis Framework (GMAF)
+----_ Plugin Architecture
+--- Receive and record streams
+--- Unlimited Length of recordings
+--- Appropriate Plugins\nfor feature extraction
+--- Automate feature extraction in GMAF
+--- Improved retrival in MMA 
+
+-- Concept
+
+
+
+
+
+
+
+** Implementation
+** Evaluation
+** Outlook
+
+
+@endmindmap
