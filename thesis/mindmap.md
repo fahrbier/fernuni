@@ -2,6 +2,10 @@
 mindmap
   root((EXTRACTION AND INTEGRATION OF MMIR-FEATURES))
     Introduction
+      Problem Statements
+        (P1 Unlimited, Hybrid Recording)
+        (P2 Feature Extraction)
+        (P3 Research Questions)
     State of the Art
       Knowledge Management Ecosystem Portal
         Introduction
